@@ -9,3 +9,5 @@ https://github.com/pipohawk/github-final-project/blob/main/CODE_OF_CONDUCT.md
 https://github.com/pipohawk/github-final-project/blob/main/CONTRIBUTING.md
 
 https://github.com/pipohawk/github-final-project/blob/main/simple-interest.sh
+
+https://github.com/pipohawk/Pipohawk-Introduction-to-Git-and-GitHub
