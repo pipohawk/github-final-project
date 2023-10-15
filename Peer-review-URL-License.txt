@@ -11,3 +11,5 @@ https://github.com/pipohawk/github-final-project/blob/main/CONTRIBUTING.md
 https://github.com/pipohawk/github-final-project/blob/main/simple-interest.sh
 
 https://github.com/pipohawk/Pipohawk-Introduction-to-Git-and-GitHub
+
+https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/22064
